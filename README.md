@@ -26,13 +26,13 @@ RGB 채널 중첩을 활용한 딥러닝 분류 모델의 경우, 원본 영상�
 ![Figure 3](https://github.com/younji524/RGB_Superposition/assets/76142194/7a68abcb-071c-4848-9682-6a7222f25a80)
 
 <br/>
-  
+
 **[ 각 RGB 채널 중첩 영상별 딥러닝 분류 성능 ]**
-  
+
 ![Table 1](https://github.com/younji524/RGB_Superposition/assets/76142194/9ea1f501-e6b1-4601-963d-feb36894e069)
 
 <br/>
-  
+
 **[ 원본, 마스크 영상, RGB 채널 중첩 영상별 딥러닝 분류 성능 ]**
 
 ![Table 2](https://github.com/younji524/RGB_Superposition/assets/76142194/be653597-d333-49eb-a2c3-05c1ce003126)
