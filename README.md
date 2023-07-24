@@ -4,17 +4,17 @@
 <br/>
 단계는 다음과 같이 이루어진다. <br/>
 <br/>
-1. 원본 영상으로부터 아세토화이트 영역 추출 <br/>
-2. 아세토화이트 영역을 마스크화 <br/>
-3. 마스크 이미지 1개와 원본 이미지 2개를 RGB 채널 중첩하여 새로운 이미지 생성 <br/>
+1. 원본 영상으로부터 아세토화이트 영역 추출 <br/><br/>
+2. 아세토화이트 영역을 마스크화 <br/><br/>
+3. 마스크 이미지 1개와 원본 이미지 2개를 RGB 채널 중첩하여 새로운 이미지 생성 <br/><br/>
 <br/><br/>
 
-**[ RGB 채널 중첩 이미지 생성 과정 ]**
-  
+**[ RGB 채널 중첩 이미지 생성 과정 ]** <br/>
+<br/>
 ![Figure 1](https://github.com/younji524/RGB_Superposition/assets/76142194/b65ee1b7-6c7b-4ecd-bccc-14c155da208a)
-
-**[ 생성된 RGB 채널 중첩 이미지 ]**
-  
+<br/>
+**[ 생성된 RGB 채널 중첩 이미지 ]**  <br/>
+<br/>
 ![Figure 2](https://github.com/younji524/RGB_Superposition/assets/76142194/b49865fb-6c97-4701-9449-48fc55d6c240)
 
 <br/><br/>
