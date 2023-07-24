@@ -12,7 +12,7 @@
 **[ RGB 채널 중첩 이미지 생성 과정 ]** <br/>
 <br/>
 ![Figure 1](https://github.com/younji524/RGB_Superposition/assets/76142194/b65ee1b7-6c7b-4ecd-bccc-14c155da208a)
-<br/>
+<br/><br/>
 **[ 생성된 RGB 채널 중첩 이미지 ]**  <br/>
 <br/>
 ![Figure 2](https://github.com/younji524/RGB_Superposition/assets/76142194/b49865fb-6c97-4701-9449-48fc55d6c240)
